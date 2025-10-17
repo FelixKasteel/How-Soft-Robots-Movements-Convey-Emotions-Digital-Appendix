@@ -1,0 +1,20 @@
+body_mold_id = 0;
+body_lid_id = 1;
+body_cap_id = 2;
+skin_mold_id = 3;
+skin_lid_id = 4;
+skin_cap_id = 5;
+rod_id = 6;
+seal_tower_id = 7;
+start_seal_base_id = 8;
+end_seal_base_id = 9;
+thiner_rod_id = 10;
+thicker_rod_id = 11;
+additonal_seal_tower_id = 12;
+
+body_mold_part_ids = [body_mold_id, body_lid_id, body_cap_id];
+skin_mold_part_ids = [skin_mold_id, skin_lid_id, skin_cap_id];
+seal_part_ids = [seal_tower_id, start_seal_base_id, end_seal_base_id];
+rod_ids = [rod_id, thiner_rod_id, thicker_rod_id];
+additonal_parts = [additonal_seal_tower_id];
+all_mold_part_ids = concat(body_mold_part_ids, skin_mold_part_ids, seal_part_ids, rod_ids, additonal_parts);

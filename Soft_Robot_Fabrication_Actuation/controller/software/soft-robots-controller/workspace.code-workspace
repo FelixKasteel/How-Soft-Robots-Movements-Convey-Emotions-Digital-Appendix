@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "soft-robots-controller",
+			"path": "."
+		},
+		{
+			"name": "CO2 Ampel",
+			"path": "../../../../../../Documents/PlatformIO/Projects/CO2 Ampel"
+		}
+	],
+	"settings": {}
+}

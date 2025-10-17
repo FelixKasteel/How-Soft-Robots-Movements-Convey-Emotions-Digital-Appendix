@@ -1,0 +1,3 @@
+customizable_coupler.stl was created by Sören Schröder under use of "Customizable axis coupler" Script by toxnico [https://www.thingiverse.com/thing:299663] and is distributed under CC BY-SA 4.0
+Nema23 Motor Mount (OpenBeamMotorMount).stl was create by Sören Schröder under use of "Customizable Stepper Motor Mount for OpenBeam" Script by ccox [https://www.thingiverse.com/thing:2073446] and is distributed under CC BY-SA 4.0
+Simple Rail Guide.stl, Stand Mount.stl, Syringe Connector.stl, Syringe Mount.stl were created by Sören Schröder and are distributed under CC BY-SA 4.0
